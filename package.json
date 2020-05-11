@@ -1,0 +1,20 @@
+{
+  "name": "health-care-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbconnection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leesangha/Health-Care-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leesangha/Health-Care-Server/issues"
+  },
+  "homepage": "https://github.com/leesangha/Health-Care-Server#readme"
+}
