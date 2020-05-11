@@ -19,6 +19,7 @@
   "homepage": "https://github.com/leesangha/Health-Care-Server#readme",
   "dependencies": {
     "mssql": "^6.2.0",
+    "multer": "^1.4.2",
     "python-shell": "^2.0.0"
   }
 }
