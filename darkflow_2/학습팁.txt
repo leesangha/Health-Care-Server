@@ -1,0 +1,3 @@
+2.5 까지
+python flow --model ./cfg/tiny-yolo-voc-3c.cfg --labels ./labels.txt --trainer adam --dataset ./train/images/ --annotation ./train/annotations/ --train --summary ./logs --batch 8 --epoch 20 --save 1640 --lr 1e-04 --load -1
+그 후로 lr 5 로 
